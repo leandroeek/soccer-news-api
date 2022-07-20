@@ -1,23 +1,27 @@
 [
   {
+    "id", 1,
     "title": "Sem a camisa 10:",
     "description": "Pia distribui liderança na Seleção com ausência da capitã Marta na Copa América",
     "image": "https://leandroeek.github.io/soccer-news-api/images/1.jpg",
     "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/07/03/sem-a-camisa-10-pia-distribui-lideranca-na-selecao-com-ausencia-da-capita-marta-na-copa-america.ghtml"
   }, 
   {
+    "id", 2,
     "title": "Onda de lesões desfalca seleções",
     "description": "Ruptura de ligamento é, sozinha, responsável por quatro baixas importantes: Marta na Copa América, Catarina Macario no Campeonato da Concacaf, Alexia e Maroszán na Eurocopa",
     "image": "https://leandroeek.github.io/soccer-news-api/images/2.jpg",
     "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/06/onda-de-lesoes-desfalca-selecoes-nas-competicoes-internacionais-do-futebol-feminino.ghtml"
   },
   {
+    "id", 3,
     "title": "Otimismo",
     "description": "Apesar de derrotas, Pia mantém confiança na seleção: 'Estaremos prontas para a Copa América'",
     "image": "https://leandroeek.github.io/soccer-news-api/images/3.jpg",
     "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/06/28/apesar-de-derrotas-pia-mantem-confianca-na-selecao-estaremos-prontas-para-a-copa-america.ghtml"
   },
   {
+    "id", 4,
     "title": "Copa América x Euro",
     "description": "Conmebol e Uefa anunciam versão feminina da Finalíssima e Intercontinental Sub-20",
     "image": "https://leandroeek.github.io/soccer-news-api/images/4.jpg",
